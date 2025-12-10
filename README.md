@@ -1,5 +1,7 @@
+## Example 1 - Power BI
+
 An example of a multi-page report made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company.
-Click [**HERE**](https://github.com/erorbar/bi_examples/blob/f6e9adbdbbad3ba681c801676aab5a1e0ef85e54/Example%201%20-%20PBI%20Dashboard%20Report.pbix) to download the file **"Example 1 - PBI Dashboard Report.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
+Click [**HERE**](https://github.com/erorbar/bi_examples/releases/download/pub/Example.1.-.PBI.Dashboard.Report.pbix) to download the file **"Example 1 - PBI Dashboard Report.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
 
 Team Overview:
 <img width="1472" height="833" alt="image" src="https://github.com/user-attachments/assets/9d9ce198-b560-4203-ab1f-931ce504d6c5" />
