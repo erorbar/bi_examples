@@ -1,6 +1,6 @@
 ## Example 1 - Power BI
 
-An example of a multi-page report made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company.
+An example of a multi-page report made in Power BI. Shows employee statistics for production, quality and overtime utilization of a fictional company. Names, department, activities, tasks and other identity data are fully fictional, but connected in a structure context.
 Click [**HERE**](https://github.com/erorbar/bi_examples/releases/download/pub/Example.1.-.PBI.Dashboard.Report.pbix) to download the file **"Example 1 - PBI Dashboard Report.pbix"** listed above to explore the report and data/semantic model directly in Power BI.
 
 Team Overview:
